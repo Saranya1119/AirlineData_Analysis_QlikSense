@@ -9,4 +9,6 @@ The project "Exploring Insights from Synthetic Airline Data Analysis with Qlik" 
 
 Dataset link : https://drive.google.com/drive/folders/1b56DEexbOV8BnshvV9zyR6Xy6rFnWq_S?usp=sharing  
 
+Documentation Link : https://drive.google.com/file/d/1KkuWD02WzzqCEbDPlrz1cz4nvFKroJXB/view?usp=sharing
+
 Project Demo Link : 
