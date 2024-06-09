@@ -11,4 +11,4 @@ Dataset link : https://drive.google.com/drive/folders/1b56DEexbOV8BnshvV9zyR6Xy6
 
 Documentation Link : https://drive.google.com/file/d/1XLYxXrt3P7IOPHXfbWTQBzvieXFKfcwC/view?usp=sharing
 
-Project Demo Link : https://drive.google.com/file/d/1jj9b2rrXeSp9uMNMIwycRom37gLhY_oq/view?usp=sharing
+Project Demo Link : 
